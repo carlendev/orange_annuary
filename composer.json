@@ -1,0 +1,7 @@
+{
+    "require": {
+        "hhvm/hsl": "^4.25",
+        "hhvm/hhvm-autoload": "^2.0",
+        "facebook/xhp-lib": "^3.0"
+    }
+}
